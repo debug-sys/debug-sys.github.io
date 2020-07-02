@@ -1,0 +1,38 @@
+/* cascading stylesheet for website */
+a{
+  /* set the text colour to blue*/
+  color:blue;
+  text-decoration: none;/*this means that we don't want the hyperlinks to be underlined*/
+
+}
+a:hover{
+  /*set the text color to red*/
+  color:red;
+  text-decoration: none;
+
+}
+body{
+  /* set the background color  here*/
+  background-color: beige;
+  /*set the text colour here*/
+  color: black;
+  /*set the font here*/
+  font-family: Arial,Helvetica,sans-serif;
+  /* set the text alignment here*/
+  text-align: center;
+}
+footer{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+}
+h1{
+  margin-bottom: 0.5rem;
+  margin-top: 3rem;
+}
+h2{
+  /*set the text color to#075AAB here*/
+  color: #075AAB;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
